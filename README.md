@@ -24,4 +24,6 @@
 * [CRUD JS Basic](https://belaekaputri.github.io/CRUD-BASIC-JAVASCRIPT.github.io/)
 * [Website Portfolio](https://github.com/belaekaputri/my-portfolio)
 
+### Project Vue.js
+* [CRD Vue.js](https://github.com/belaekaputri/vue-basic)
 
