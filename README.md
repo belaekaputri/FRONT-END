@@ -26,4 +26,4 @@
 
 ### Project Vue.js
 * [CRD Vue.js](https://github.com/belaekaputri/vue-basic)
-* [Random Gambar Vue Cli](https://github.com/belaekaputri/vue-basic)
+* [Random Gambar Vue Cli](https://github.com/belaekaputri/vuecli-randomgambar)
