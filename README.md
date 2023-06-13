@@ -7,6 +7,9 @@
 ### Submission Front End Web Pemula Dicoding
 * [bookshelf-apps](https://github.com/belaekaputri/submissionFeWebPemulaDicoding)
 
+### Submission Membuat Aplikasi Web Dengan React
+* [Note-apps](https://github.com/belaekaputri/submission-React)
+
 ### Template Bootstrap
 * [b1](https://github.com/belaekaputri/layout-bootstrap-1)
 * [b2](https://github.com/belaekaputri/layout-bootstrap-2)
