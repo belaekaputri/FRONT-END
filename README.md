@@ -28,6 +28,7 @@
 ### Project JS
 * [CRUD JS Basic](https://belaekaputri.github.io/CRUD-BASIC-JAVASCRIPT.github.io/)
 * [Website Portfolio](https://github.com/belaekaputri/my-portfolio)
+* [Movie Search API](https://github.com/belaekaputri/movieSearchApi)
 
 ### Project Vue.js
 * [CRD Vue.js](https://github.com/belaekaputri/vue-basic)
