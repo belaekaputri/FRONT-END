@@ -34,3 +34,7 @@
 * [CRD Vue.js](https://github.com/belaekaputri/vue-basic)
 * [Random Gambar Vue Cli](https://github.com/belaekaputri/vuecli-randomgambar)
 * [Website Portfolio Sederhana](https://github.com/belaekaputri/simplePortfolio)
+  
+### Project React.js
+* [SPA+Router Note App](https://github.com/belaekaputri/Note-App)
+
