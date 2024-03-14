@@ -10,6 +10,9 @@
 ### Submission Membuat Aplikasi Web Dengan React Dicoding
 * [Note-apps](https://github.com/belaekaputri/submission-React)
 
+### Submission Fundamental Aplikasi Web Dengan React Dicoding
+* [Note Apps dengan SPA + API, Context, dan Hooks](https://github.com/belaekaputri/submissionReactFundamentalDicoding)
+
 ### Template Bootstrap
 * [b1](https://github.com/belaekaputri/layout-bootstrap-1)
 * [b2](https://github.com/belaekaputri/layout-bootstrap-2)
